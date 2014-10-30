@@ -2,7 +2,7 @@
 
 This is an Android application for todo list.
 
-Time spent: 2.5 hours spent in total
+Time spent: 3 hours spent in total
 
 Completed user stories:
 
