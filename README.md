@@ -12,6 +12,7 @@ Completed user stories:
  * [x] Required: The app can read and save todo list information to local file.
 
 Walkthrough of all user stories:
+
 ![Video Walkthrough](simple_todo_list_demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
